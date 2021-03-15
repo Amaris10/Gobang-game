@@ -1,0 +1,2 @@
+D:\插件\MyFiveChess\Debug\MyFiveChess.exe
+D:\插件\MyFiveChess\Debug\MyFiveChess.pdb

@@ -1,0 +1,10 @@
+﻿  GoBang.cpp
+D:\插件\MyFiveChess\GoBang.cpp(13,2): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“int (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\插件\MyFiveChess\GoBang.cpp(13,2): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5068,1): message : 参见“DialogBoxParamW”的声明
+D:\插件\MyFiveChess\GoBang.cpp(84,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Message.cpp
+D:\插件\MyFiveChess\Message.cpp(41,2): error C2664: “INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“int (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\插件\MyFiveChess\Message.cpp(41,2): message : 在匹配目标类型的范围内没有具有该名称的函数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5068,1): message : 参见“DialogBoxParamW”的声明
+  MyFiveChess.cpp
